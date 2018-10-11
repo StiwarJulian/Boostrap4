@@ -65,3 +65,8 @@ body{
 .carousel-caption{
     top: 24%;
 }
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
